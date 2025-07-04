@@ -1,3 +1,5 @@
+This server is certified by [MCP Hub](https://mcphub.com) and listed as a trusted MCP server.
+
 # File Analysis MCP Server
 
 A custom-built MCP (Model Context Protocol) server for text file analysis, also published as a package to PyPI.
